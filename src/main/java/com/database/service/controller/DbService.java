@@ -18,7 +18,7 @@ import com.database.service.repository.QuotesRepository;
 @RestController
 @RequestMapping(value="/rest/db")
 public class DbService {
-	
+	//test
 	@Autowired
 	private QuotesRepository quotesRepository;
 	
